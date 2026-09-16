@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./image.png"
+    src="./dasa-banner.img"
     alt="PT. Dasa Kekar Jaya - Specialist Architecture Façade"
     width="100%"
   />
