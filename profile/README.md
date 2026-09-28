@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./dasa-banner.png" 
+    <img src="../dasa-banner.png" 
     alt="PT. Dasa Kekar Jaya" 
     width="100%">
 </p>
